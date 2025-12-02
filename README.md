@@ -1,7 +1,4 @@
-
 # 🏷️ Spring Boot Web Project - Employee & Department Management
-
-![Project Banner](https://github.com/user-attachments/assets/9ea19136-72ff-487f-b9b3-87dd3d577109)  
 
 A **Spring Boot** project to manage **Employees** and **Departments** with full **CRUD operations** using **Spring Data JPA**, **Hibernate Validator**, and **RESTful APIs**.
 
@@ -14,7 +11,7 @@ A **Spring Boot** project to manage **Employees** and **Departments** with full 
 4. [⚙️ Technologies Used](#-technologies-used)
 5. [💻 Getting Started](#-getting-started)
 6. [🔗 API Endpoints](#-api-endpoints)
-7. [📸 Postman Screenshots](#-postman-screenshots)
+7. [📸 Screenshots](#-screenshots)
 8. [📜 License](#-license)
 
 ---
@@ -28,6 +25,10 @@ It demonstrates the use of:
 - **Exception Handling** for robust responses.
 
 ---
+<img width="1662" height="956" alt="Screenshot 2025-12-01 011457" src="https://github.com/user-attachments/assets/d72cd5c6-0dcf-43a0-901a-42656d761f40" />
+<img width="1446" height="943" alt="Screenshot 2025-12-01 004526" src="https://github.com/user-attachments/assets/454581c3-0038-4e64-a937-d1c1cca21c3f" />
+<img width="1340" height="993" alt="Screenshot 2025-12-01 001525" src="https://github.com/user-attachments/assets/bbd89b59-0ef0-4b1a-b4c1-65bf414807bb" />
+
 
 ## 🛠️ Features
 - ✅ Create, Read, Update, Delete **Employees**  
@@ -57,14 +58,6 @@ It demonstrates the use of:
 - **Postman** for API testing  
 
 ---
-
-
-
-
----
-
-
-
 
 ## 💻 Getting Started
 
